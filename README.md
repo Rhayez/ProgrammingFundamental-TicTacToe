@@ -80,6 +80,6 @@ players
 
 ---
 
-## Video
+## YouTube Video
 
 ([YouTube Link](https://youtu.be/JUFqJqWt5Ig))

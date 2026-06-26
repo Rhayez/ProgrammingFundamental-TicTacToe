@@ -60,23 +60,23 @@ players
 
 ## Login
 
-![Login](screenshots/login.png)
+![Login](screenshot/login.png)
 
 ## Main Menu
 
-![Main Menu](screenshots/mainmenu.png)
+![Main Menu](screenshot/mainmenu.png)
 
 ## Statistics
 
-![Statistics](screenshots/statistics.png)
+![Statistics](screenshot/statistics.png)
 
 ## Top 5 Scorers
 
-![Top 5 Scorers](screenshots/top5.png)
+![Top 5 Scorers](screenshot/top5.png)
 
 ## Game
 
-![Game](screenshots/game.png)
+![Game](screenshot/game.png)
 
 ---
 
